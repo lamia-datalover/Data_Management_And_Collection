@@ -1,6 +1,6 @@
 # Goal of the project :
 The goal of this project is to interact with an API to collect historical data on cryptocurrencies, specifically focusing on the top coins by market cap, and to convert this data into a structured, human-readable format that includes daily open, high, low, and close prices. The final processed data is then stored locally in a JSON file, 
-which could be used for further financial analysis, reporting, or integration into other systems.
+which could be used for further financial analysis, reporting, or integration into other systems.<br>
 <b>Fetching Initial Data:</b><br>
 
 The script makes an HTTP GET request to CoinGecko's API to fetch the top 250 cryptocurrencies by market capitalization, priced in USD.<br>
